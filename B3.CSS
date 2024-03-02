@@ -1,0 +1,29 @@
+body{
+    font-family: "Lora", serif;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+p{
+    color: #808080;
+}
+ul{
+    color: #808080;
+    list-style-type: none;
+}
+div{
+    display: flex;
+    background: #04bbd1;
+    width: 20%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+
+}
+div:hover{
+    background-color: red;
+}

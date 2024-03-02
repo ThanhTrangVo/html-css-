@@ -1,0 +1,23 @@
+body{
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+
+}
+h1{
+    margin-right: 30%;
+}
+p{
+    background-color:#83e404;
+    color: white;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 10px 7px 10px 7px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    
+}
+p:hover{
+    background-color: red;
+
+}

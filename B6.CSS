@@ -1,0 +1,28 @@
+div{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+
+}
+section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    background-image: url(https://images.pexels.com/photos/957061/milky-way-starry-sky-night-sky-star-957061.jpeg?cs=srgb&dl=pexels-felix-mittermeier-957061.jpg&fm=jpg);
+    background-size: cover;
+    filter: grayscale(30%);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: "Roboto Mono", monospace;
+}
+.number{
+    color: white;
+    font-size: 40px;
+    padding-bottom: 0;
+}
+.text{
+    color: yellow;
+    padding-top: 0;
+
+}
